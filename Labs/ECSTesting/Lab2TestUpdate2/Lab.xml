@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lab xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>Lab2Test</Id>
+  <Technologies>
+	<Technology>.NET Framework</Technology>
+  </Technologies>
+  <Author>
+    <Blog>
+    </Blog>
+    <Email>
+    </Email>
+    <Name>daiken</Name>
+  </Author>
+  <Description>In this hands-on lab, you will explore the basic elements of a Windows Azure service by creating a simple GuestBook application that demonstrates many features of the Windows Azure platform, including web and worker roles, blob storage, table storage, and queues.</Description>  
+  <Document ConversionType="Html">.\Lab.docx</Document>
+  <!--<Setup ConversionType="Html">.\Source\Setup\Setup.docx</Setup>-->
+  <Title>Lab2Test</Title>
+  <Version>2.0</Version>
+  <Source>.\Source</Source>
+  <DependencyChecker ScriptsFolder="Assets\DependencyChecker\scripts">.\Source\Setup\Dependencies.dep</DependencyChecker>
+  <CustomProperties>
+    <Property Name="Portal" Value="new" />
+  </CustomProperties>
+</Lab>

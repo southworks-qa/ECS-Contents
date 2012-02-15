@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>Presentation1Test</Id>
+  <Technologies>
+	<Technology>Windows Phone</Technology>
+  </Technologies>
+  <Author>
+    <Blog>http://www.wadewegner.com</Blog>
+    <Email>wwegner@microsoft.com</Email>
+    <Name>wwegner</Name>
+  </Author>
+  <Description>
+    This presentation Number 1 - Original.    
+  </Description>
+  <Document RemoveSpeakerNotes="false">.\Presentation1Test.pptx</Document>
+  <Title>Presentation1Test</Title>
+  <Version>1.0.0</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>

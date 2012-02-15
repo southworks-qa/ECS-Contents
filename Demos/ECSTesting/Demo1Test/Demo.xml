@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Demo xmlns:i="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+      <Id>Demo1Test</Id>
+      <Author>
+        <Blog></Blog>
+        <Email></Email>
+        <Name>Demo Maker</Name>
+      </Author>
+      <Title>Demo1Test</Title>
+      <Description>
+		First version - Demo
+      </Description>
+      <Document ConversionType="Html">.\Demo.docx</Document>
+      <Setup ConversionType="None"></Setup>      
+      <Version>1.0.0</Version>
+      <Source>.</Source>  
+</Demo>

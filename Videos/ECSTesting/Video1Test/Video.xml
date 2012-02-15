@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Video xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>Video1Test</Id>
+  <Technologies>
+	<Technology>Windows Identity Foundation</Technology>
+	<Technology>Windows Server AppFabric</Technology>
+	<Technology>Windows Phone</Technology>
+	<Technology>SQL Server</Technology>
+  </Technologies>
+  <Version>1.0.0</Version>
+  <Author>
+    <Name>daiken</Name>
+  </Author>
+  <Title>What is the Access Control Service?</Title>
+  <Description>
+    In this video Justin Smith, program manager for the Access Control Service, goes through the basics of the service and hints at the main features offered by the current release.
+  </Description>
+  <Abstract>
+    In this video Justin Smith, program manager for the Access Control Service, goes through the basics of the service and hints at the main features offered by the current release.
+  </Abstract>
+  <Url>http://ecn.channel9.msdn.com/o9/learn/videos/IdentityTrainingCourse-IdentityAzure-IntroToAccessControlServices/IdentityTrainingCourse-IdentityAzure-IntroToAccessControlServices_kit.wmv</Url>
+  <!--<Property Name="PlayerUrl" Value="http://c9if.cloudapp.net/default.aspx?m=http://ecn.channel9.msdn.com/o9/learn/videos/IdentityTrainingCourse-IdentityAzure-IntroToAccessControlServices/IdentityTrainingCourse-IdentityAzure-IntroToAccessControlServices_kit.wmv" />-->
+  <CustomProperties>
+    <Property Name="PlayerUrl" Value="http://channel9vip.orcsweb.com/learn/courses/Azure/IdentityAzure/IntroToAccessControlServices/player/" />
+  </CustomProperties>  
+</Video>

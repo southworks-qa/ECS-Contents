@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AdventureWorks", "AdventureWorks\AdventureWorks.ccproj", "{88CCEA46-DAB9-4EF5-91CF-1C128033D2C5}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AdventureWorksWeb", "AdventureWorksWeb\AdventureWorksWeb.vbproj", "{7B2272D0-225F-48B2-A515-6BAD8BF99A86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88CCEA46-DAB9-4EF5-91CF-1C128033D2C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CCEA46-DAB9-4EF5-91CF-1C128033D2C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CCEA46-DAB9-4EF5-91CF-1C128033D2C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CCEA46-DAB9-4EF5-91CF-1C128033D2C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B2272D0-225F-48B2-A515-6BAD8BF99A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2272D0-225F-48B2-A515-6BAD8BF99A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2272D0-225F-48B2-A515-6BAD8BF99A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2272D0-225F-48B2-A515-6BAD8BF99A86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lab xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>Lab3Test</Id>
+  <Author>
+    <Blog>
+    </Blog>
+    <Email>
+    </Email>
+    <Name>daiken</Name>
+  </Author>
+  <Description>Windows Azure provides a mechanism for simple asynchronous work using queues and worker roles. In this hands-on lab, you will look at some advanced approaches for building asynchronous Windows Azure services that take advantage of these features.</Description>  
+  <Document ConversionType="Html">.\Lab.docx</Document>
+  <!--<Setup ConversionType="Html">.\Source\Setup\Setup.docx</Setup>-->
+  <Title>Lab5Test</Title>
+  <Version>1.0</Version>
+  <Source>.\Source</Source>
+  <DependencyChecker ScriptsFolder="..\..\..\Packages\WAZplatTrainingKit\Assets\DependencyChecker\scripts">.\Source\Setup\MissingDependencies.dep</DependencyChecker>
+</Lab>
